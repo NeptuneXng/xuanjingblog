@@ -1,0 +1,26 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "我的 Hugo 网站"
+theme: "PaperMod"
+
+params:
+  description: "这是我的 Hugo 测试网站"
+
+menu:
+  main:
+    - identifier: "archive"
+      name: "Archive"
+      url: "/archives/"
+      weight: 1
+    - identifier: "search"
+      name: "Search"
+      url: "/search/"
+      weight: 2
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
+      weight: 3
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 4

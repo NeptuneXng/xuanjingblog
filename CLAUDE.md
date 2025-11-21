@@ -1,0 +1,76 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+This is a Hugo static site generator project with the following structure:
+- **Hugo version**: 0.152.2 (extended)
+- **Theme**: PaperMod (currently configured in hugo.toml)
+- **Alternative theme**: Ananke (available as git submodule)
+- **Site title**: "My New Hugo Site"
+- **Base URL**: https://example.org/
+
+## Development Commands
+
+### Building and Serving
+- `hugo` - Build the site to `public/` directory
+- `hugo server` - Start development server with live reload
+- `hugo server -D` - Include draft content in development server
+
+### Content Management
+- `hugo new posts/my-post.md` - Create new blog post
+- `hugo new page/about.md` - Create new page
+- `hugo list all` - List all content
+
+### Site Configuration
+- `hugo config` - Display site configuration
+- `hugo version` - Check Hugo version
+
+## Architecture
+
+### Theme System
+- **Primary theme**: PaperMod (located in `themes/PaperMod/`)
+- **Alternative theme**: Ananke (git submodule in `themes/ananke/`)
+- Theme switching: Update `theme = 'PaperMod'` in `hugo.toml`
+
+### Content Structure
+- **Archetypes**: Default content templates in `archetypes/default.md`
+- **Content**: No content currently exists (empty `content/` directory)
+- **Static files**: Site assets and static content
+- **Public output**: Generated site in `public/` directory
+
+### Theme Features (PaperMod)
+- Asset generation with pipelining, fingerprinting, bundling, and minification
+- 3 display modes: Regular, Home-Info, Profile
+- Table of Contents generation
+- Light/Dark theme with automatic switching
+- SEO optimization
+- Search functionality with Fuse.js
+- Multilingual support
+- No webpack or Node.js dependencies required
+
+## Git Submodules
+
+- `themes/ananke` is managed as a git submodule
+- Use `git submodule update --init` to initialize submodules
+
+## Development Workflow
+
+1. **Content creation**: Use `hugo new` commands to create posts/pages
+2. **Local development**: Run `hugo server` for live preview
+3. **Build**: Run `hugo` to generate static site in `public/`
+4. **Deployment**: Deploy `public/` directory to hosting service
+
+## Configuration
+
+Main configuration file: `hugo.toml`
+- Site metadata (title, baseURL, language)
+- Theme selection
+- Build settings
+
+## Notes
+
+- The site currently has no content - start by creating posts or pages
+- PaperMod theme documentation: https://github.com/adityatelange/hugo-PaperMod/wiki
+- Hugo documentation: https://gohugo.io/

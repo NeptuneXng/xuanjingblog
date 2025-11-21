@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home Page on 我的 Hugo 网站</title>
+    <link>http://localhost:13632/</link>
+    <description>Recent content in Home Page on 我的 Hugo 网站</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jan 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:13632/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇博客文章</title>
+      <link>http://localhost:13632/posts/first-post/</link>
+      <pubDate>Tue, 21 Jan 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:13632/posts/first-post/</guid>
+      <description>这是我的第一篇 Hugo 博客文章，介绍网站的基本功能</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:13632/about/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0800</pubDate>
+      <guid>http://localhost:13632/about/</guid>
+      <description>&lt;h2 id=&#34;网站介绍&#34;&gt;网站介绍&lt;/h2&gt;
+&lt;p&gt;这是一个使用 Hugo 静态网站生成器创建的演示网站。Hugo 是一个用 Go 语言编写的快速、现代的静态网站生成器。&lt;/p&gt;
+&lt;h2 id=&#34;技术栈&#34;&gt;技术栈&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;框架&lt;/strong&gt;: Hugo v0.152.2&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主题&lt;/strong&gt;: PaperMod&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;构建工具&lt;/strong&gt;: Hugo CLI&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;部署&lt;/strong&gt;: 静态文件部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主要特性&#34;&gt;主要特性&lt;/h2&gt;
+&lt;h3 id=&#34;性能优势&#34;&gt;性能优势&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ 极快的构建速度&lt;/li&gt;
+&lt;li&gt;📦 零运行时依赖&lt;/li&gt;
+&lt;li&gt;🔒 高度安全性&lt;/li&gt;
+&lt;li&gt;🌐 SEO 友好&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;开发体验&#34;&gt;开发体验&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🛠️ 热重载开发服务器&lt;/li&gt;
+&lt;li&gt;📝 Markdown 优先&lt;/li&gt;
+&lt;li&gt;🎨 主题系统&lt;/li&gt;
+&lt;li&gt;🔧 丰富的插件生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;为什么选择-hugo&#34;&gt;为什么选择 Hugo？&lt;/h2&gt;
+&lt;p&gt;Hugo 以其卓越的性能和简单性而闻名，特别适合：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;个人博客&lt;/li&gt;
+&lt;li&gt;文档网站&lt;/li&gt;
+&lt;li&gt;企业官网&lt;/li&gt;
+&lt;li&gt;项目展示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;最后更新：2025年1月21日&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>代码项目</title>
+      <link>http://localhost:13632/code/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0800</pubDate>
+      <guid>http://localhost:13632/code/</guid>
+      <description>&lt;h1 id=&#34;代码项目&#34;&gt;代码项目&lt;/h1&gt;
+&lt;p&gt;这里展示我的一些开源项目和代码示例。&lt;/p&gt;
+&lt;h2 id=&#34;项目展示&#34;&gt;项目展示&lt;/h2&gt;
+&lt;h3 id=&#34;1-hugo-主题定制&#34;&gt;1. Hugo 主题定制&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;描述&lt;/strong&gt;: 基于 PaperMod 主题的个性化定制&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术栈&lt;/strong&gt;: Hugo, HTML, CSS, JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;功能&lt;/strong&gt;: 响应式设计、深色模式、搜索功能&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/username/hugo-theme&#34;&gt;项目链接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-静态网站生成器&#34;&gt;2. 静态网站生成器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;描述&lt;/strong&gt;: 使用 Go 语言开发的轻量级静态网站生成器&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术栈&lt;/strong&gt;: Go, Markdown, HTML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特点&lt;/strong&gt;: 快速构建、零依赖、易于扩展&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-前端组件库&#34;&gt;3. 前端组件库&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;描述&lt;/strong&gt;: 现代化的 React 组件库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术栈&lt;/strong&gt;: React, TypeScript, Tailwind CSS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组件&lt;/strong&gt;: 按钮、表单、导航、模态框等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;代码示例&#34;&gt;代码示例&lt;/h2&gt;
+&lt;h3 id=&#34;go-语言示例&#34;&gt;Go 语言示例&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; (
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;net/http&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;handler&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;w&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;http&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ResponseWriter&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;r&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;http&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Request&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Fprintf&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;w&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;http&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;HandleFunc&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;handler&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;http&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ListenAndServe&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;:8080&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#66d9ef&#34;&gt;nil&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;javascript-示例&#34;&gt;JavaScript 示例&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// 深色模式切换
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;toggleTheme&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;html&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;documentElement&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;currentTheme&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;html&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;getAttribute&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;data-theme&amp;#39;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;newTheme&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;currentTheme&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;===&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;dark&amp;#39;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;?&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;light&amp;#39;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;dark&amp;#39;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;html&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;setAttribute&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;data-theme&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;newTheme&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;localStorage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;setItem&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;theme&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;newTheme&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// 初始化主题
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;initTheme&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;savedTheme&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;localStorage&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;getItem&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;theme&amp;#39;&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;||&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;light&amp;#39;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    document.&lt;span style=&#34;color:#a6e22e&#34;&gt;documentElement&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;setAttribute&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;data-theme&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;savedTheme&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;python-示例&#34;&gt;Python 示例&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; requests
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; bs4 &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; BeautifulSoup
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;scrape_website&lt;/span&gt;(url):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;#34;&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;    简单的网页爬虫示例
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;    &amp;#34;&amp;#34;&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        response &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; requests&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;get(url)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        response&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;raise_for_status()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        soup &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; BeautifulSoup(response&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;content, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;html.parser&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        title &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; soup&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;find(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;)&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;text &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; soup&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;find(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;else&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;No title&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;: title,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;status_code&amp;#39;&lt;/span&gt;: response&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;status_code
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;except&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Exception&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; e:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; {&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;error&amp;#39;&lt;/span&gt;: str(e)}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 使用示例&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;result &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; scrape_website(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;https://example.com&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(result)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;技术栈&#34;&gt;技术栈&lt;/h2&gt;
+&lt;h3 id=&#34;前端技术&#34;&gt;前端技术&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;框架&lt;/strong&gt;: React, Vue.js&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;样式&lt;/strong&gt;: Tailwind CSS, SCSS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;构建工具&lt;/strong&gt;: Vite, Webpack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;后端技术&#34;&gt;后端技术&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Go, Python, Node.js&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据库&lt;/strong&gt;: PostgreSQL, MongoDB&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API&lt;/strong&gt;: REST, GraphQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;开发工具&#34;&gt;开发工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;版本控制&lt;/strong&gt;: Git&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CI/CD&lt;/strong&gt;: GitHub Actions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;容器化&lt;/strong&gt;: Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;开源贡献&#34;&gt;开源贡献&lt;/h2&gt;
+&lt;p&gt;我积极参与开源社区，主要贡献领域包括：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>联系我们</title>
+      <link>http://localhost:13632/contact/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0800</pubDate>
+      <guid>http://localhost:13632/contact/</guid>
+      <description>&lt;h1 id=&#34;联系我们&#34;&gt;联系我们&lt;/h1&gt;
+&lt;p&gt;感谢您访问我们的网站！如果您有任何问题或建议，请通过以下方式联系我们。&lt;/p&gt;
+&lt;h2 id=&#34;联系信息&#34;&gt;联系信息&lt;/h2&gt;
+&lt;h3 id=&#34;基本信息&#34;&gt;基本信息&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;邮箱&lt;/strong&gt;: &lt;a href=&#34;mailto:contact@example.org&#34;&gt;contact@example.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电话&lt;/strong&gt;: +86 138-0000-0000&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;地址&lt;/strong&gt;: 北京市朝阳区&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;社交媒体&#34;&gt;社交媒体&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/username&#34;&gt;github.com/username&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;微博&lt;/strong&gt;: &lt;a href=&#34;https://weibo.com/username&#34;&gt;weibo.com/username&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;知乎&lt;/strong&gt;: &lt;a href=&#34;https://zhihu.com/people/username&#34;&gt;zhihu.com/people/username&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;办公时间&#34;&gt;办公时间&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;周一至周五&lt;/strong&gt;: 9:00 - 18:00&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;周六&lt;/strong&gt;: 10:00 - 16:00&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;周日&lt;/strong&gt;: 休息&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;反馈表单&#34;&gt;反馈表单&lt;/h2&gt;
+&lt;p&gt;如果您希望我们联系您，请提供以下信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;姓名&lt;/li&gt;
+&lt;li&gt;邮箱地址&lt;/li&gt;
+&lt;li&gt;主题&lt;/li&gt;
+&lt;li&gt;详细描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们会尽快回复您的消息！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;注意：这是一个演示网站，联系信息均为示例数据&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
