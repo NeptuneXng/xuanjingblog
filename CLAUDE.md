@@ -6,9 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a Hugo static site generator project with the following structure:
 - **Hugo version**: 0.152.2 (extended)
-- **Theme**: PaperMod (currently configured in hugo.toml)
+- **Theme**: PaperMod (currently configured in hugo.yaml)
 - **Alternative theme**: Ananke (available as git submodule)
-- **Site title**: "My New Hugo Site"
+- **Site title**: "XuanjingBlog"
 - **Base URL**: https://example.org/
 
 ## Development Commands
@@ -32,11 +32,11 @@ This is a Hugo static site generator project with the following structure:
 ### Theme System
 - **Primary theme**: PaperMod (located in `themes/PaperMod/`)
 - **Alternative theme**: Ananke (git submodule in `themes/ananke/`)
-- Theme switching: Update `theme = 'PaperMod'` in `hugo.toml`
+- Theme switching: Update `theme: "PaperMod"` in `hugo.yaml`
 
 ### Content Structure
 - **Archetypes**: Default content templates in `archetypes/default.md`
-- **Content**: No content currently exists (empty `content/` directory)
+- **Content**: Clean, minimal content focused on personal blogging
 - **Static files**: Site assets and static content
 - **Public output**: Generated site in `public/` directory
 
@@ -64,13 +64,19 @@ This is a Hugo static site generator project with the following structure:
 
 ## Configuration
 
-Main configuration file: `hugo.toml`
+Main configuration file: `hugo.yaml`
 - Site metadata (title, baseURL, language)
 - Theme selection
 - Build settings
 
+## Git Commit Guidelines
+
+- Keep commit messages concise and descriptive
+- Avoid including AI tool references in commit messages
+- Focus on what changed and why, not how it was implemented
+
 ## Notes
 
-- The site currently has no content - start by creating posts or pages
+- The site has clean, minimal content ready for personal blogging
 - PaperMod theme documentation: https://github.com/adityatelange/hugo-PaperMod/wiki
 - Hugo documentation: https://gohugo.io/
