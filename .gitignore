@@ -20,3 +20,6 @@ Thumbs.db
 
 # Hugo cache
 .hugo_build.lock
+
+# Local draft posts
+content/posts/first-post.md
