@@ -9,7 +9,7 @@ This is a Hugo static site generator project with the following structure:
 - **Theme**: PaperMod (currently configured in hugo.yaml)
 - **Alternative theme**: Ananke (available as git submodule)
 - **Site title**: "XuanjingBlog"
-- **Base URL**: https://example.org/
+- **Base URL**: https://6938320ff742cc89ec29d274--xuanjingblog.netlify.app/
 
 ## Development Commands
 
