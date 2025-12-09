@@ -9,7 +9,7 @@ This is a Hugo static site generator project with the following structure:
 - **Theme**: PaperMod (currently configured in hugo.yaml)
 - **Alternative theme**: Ananke (available as git submodule)
 - **Site title**: "XuanjingBlog"
-- **Base URL**: https://6938320ff742cc89ec29d274--xuanjingblog.netlify.app/
+- **Base URL**: https://xuanjingblog.netlify.app/
 
 ## Development Commands
 
@@ -74,6 +74,26 @@ Main configuration file: `hugo.yaml`
 - Keep commit messages concise and descriptive
 - Avoid including AI tool references in commit messages
 - Focus on what changed and why, not how it was implemented
+
+## Deployment Workflow
+
+### Netlify Deployment
+- **No local build required**: Push changes directly to GitHub repository
+- **Automatic deployment**: Netlify automatically builds and deploys on push
+- **Preview URL**: https://xuanjingblog.netlify.app/
+- **Preview changes**: View deployment results directly on Netlify
+
+### Development Workflow
+1. Create/edit content files in `content/` directory
+2. Commit changes to Git
+3. Push to GitHub repository
+4. Netlify automatically builds and deploys
+5. View results at https://xuanjingblog.netlify.app/
+
+### Local Development (Optional)
+- Use `hugo server` for local preview only
+- Generated `public/` folder is ignored by Git (see .gitignore)
+- No need to build locally for deployment
 
 ## Notes
 
