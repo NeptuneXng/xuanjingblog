@@ -1,6 +1,7 @@
 # Hugo generated files
 public/
 resources/
+.claude/
 
 # OS generated files
 .DS_Store
